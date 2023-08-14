@@ -8,7 +8,7 @@ Installation
 ------------
 
 1. Install the operating system packages for `curl` and `certbot` 
-2. Install the ZeroSSL wrapper script
+2. Install the WISeKey wrapper script
    1. Quick: 
       1. run `bash <(curl -s https://tlsmanager.certifyid.com/get-wkcertbot.sh)`
       2. Done!
