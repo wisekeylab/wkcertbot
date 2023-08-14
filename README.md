@@ -32,3 +32,4 @@ sudo wkcertbot certonly --standalone -m anton@example.com -d mydomain.example.co
 sudo wkcertbot --apache -m barbara@example.com -d myotherdomain.example.com
 ```
 
+(Derived of ZeroSSL wrapper for CERTBOT)
